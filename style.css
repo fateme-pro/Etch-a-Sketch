@@ -1,0 +1,10 @@
+.square.hover{
+    background-color: #d6c8d6 !important;
+    cursor: pointer;
+}
+.button{
+    margin: auto;
+    width: 200px;
+    height: 50px;
+    display: block;
+}
